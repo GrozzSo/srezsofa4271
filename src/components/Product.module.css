@@ -1,0 +1,55 @@
+
+
+.ProductImage{
+    width: 400px;
+    height: 300px;
+    margin-left: 200px;
+}
+
+.Productda{
+    display: flex;
+    margin: 0 auto;
+    
+}
+
+.ProductTitle{
+    font-size: 25px;
+    margin-left: 100px;
+}
+
+.Productda{
+    margin-top: 100px;
+}
+
+.ProductDesc{
+    font-size: 16px;
+    max-width: 420px;
+    margin-left: 100px;
+    margin-top: 50px;
+    /* line-height: 40px; */
+}
+
+.ProductTsena{
+    margin-left: 100px;
+    margin-top: 80px;
+    font-size: 32px;
+    color: rgb(0, 119, 255);
+}
+
+.btnopis{
+    display: flex;
+    flex-direction: row;
+}
+
+.AddKorzin{
+    width: 254px;
+    height: 43px;
+    background-color: rgb(0, 119, 255);
+    margin-left: 100px;
+    color: white;
+    position: relative;
+    top: 70px;
+    font-size: 20px;
+    border: 2px solid rgb(0, 119, 255);
+    border-radius: 10px;
+}

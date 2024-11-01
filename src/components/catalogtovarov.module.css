@@ -1,0 +1,60 @@
+.da{
+    max-width: 1400px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 15px;
+    margin-bottom: 120px;
+    gap: 45px;
+    margin: 0 auto;
+    align-items: center;
+    margin-left: 90px;
+    
+}
+
+.Zagolovktov{
+    font-size: 30px;
+    font-weight: 600;
+    
+}
+
+.catalogszag{
+    margin-top: 120px;
+}
+
+.sortOptions{
+    margin-top: 40px;
+    margin-left: 260px
+}
+
+.PoiskFiltr{
+    margin-top: 40px;
+    margin-left: 90px;
+    
+}
+
+.Pole{
+    border: 2px rgb(0, 119, 255) solid;
+    margin-right: 30px;
+    border-radius: 5px;
+    padding-left: 15px;
+}
+
+.PoiskFiltr{
+    margin-bottom: 60px;
+}
+
+.pt{
+    padding-top: 20px;
+}
+
+.category{
+    border: 2px rgb(0, 119, 255) solid;
+    border-radius: 5px;
+    margin-left: 15px;
+}
+
+.txt_b{
+    text-decoration: none;
+    
+}
+
